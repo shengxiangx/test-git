@@ -1,5 +1,5 @@
 # test-git
 学习git
-git commit 1
-git commit 2
-git commit 3
+git commit -m 'init'
+git branch -M main
+git remote add origin git@github.com:bytedance/test-git.git
